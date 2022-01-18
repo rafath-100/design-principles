@@ -1,0 +1,14 @@
+Design Principles in OOPS: A design is good iff if the cost of changing it is minimum, if it is lesss complex and if it is easy to test.
+
+Following are the Design Principles:
+1)DRY => Don't Repeat Yourself
+2)KISS => Keep It Simple and Stupid
+3)YAGNI => You Aren't Gonna Need It
+4)SLAP => Single Level of Abstraction Principle
+5)SOLID
+
+SRP-Single Responsibility Principle
+OCP-Open Closed Principle
+LSP-Liskov Substitution Principle
+ISP-Interface Segregation Principle
+DIP-Dependency Inversion Principle
